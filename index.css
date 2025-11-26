@@ -1,0 +1,48 @@
+h2{
+   font-size: 50px;
+   text-align: center;
+}
+
+
+#banner{
+    width: 50%;
+}
+
+#missao{
+    text-align: center;
+    font-size: 34px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+.imagembeneficios{
+    text-align: center;
+    vertical-align: sub ;
+}
+
+.banner{
+    text-align: center;
+}
+
+body{
+    background-image: url(../imagens/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.conteiner{
+    padding: 20px;
+    background-color: rgb(255, 255, 255, 0.8);
+}
+
+.texto{
+    font-size: 20px;
+    text-align: center;
+}
